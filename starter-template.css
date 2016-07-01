@@ -6,13 +6,13 @@ body {
   text-align: center;
 }
 
-.navbar {
+.navbar-wrapper {
     position:relative;
     list-style:none;
     border-bottom:none;
     text-align: center;
 }
 
-ul.navbar li {
+ul.navbar-wrapper li {
 	display:inline-block
 }
