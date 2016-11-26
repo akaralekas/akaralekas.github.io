@@ -1,6 +1,10 @@
 body {
   padding-top: 20px;
 }
+.img-icon {
+  width: 10px;
+  height: 10px;
+}
 .starter-template {
   padding-left: 20px;
   padding-right: 20px;
