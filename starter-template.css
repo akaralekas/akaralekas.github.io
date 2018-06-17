@@ -11,7 +11,7 @@ body {
   padding-top: 0;
   padding-bottom: 0;
   text-align: center;
-  max-width: 650px;
+  max-width: 900px;
   margin: 0 auto;
   margin-top: 0;
 }
@@ -67,3 +67,63 @@ body {
   max-width: 850px;
   margin: 0 auto;
 }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+   background: #007bb5;
+   color: white;
+ }
+
+.fa-github {
+  background: #2b646b;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.social{
+  position: fixed; /* Fixed position */
+  bottom: 75px;
+  right: 0px; /* right side of page */
+  opacity: 0.75; /* 50% opaque */
+}
+
+
